@@ -9,8 +9,8 @@
 }
 #header4-7 H1 {
   text-align: left;
-  color: #f97352;
-  font-size: 36px;
+  color: #d14841;
+  font-size: 46px;
 }
 #header4-7 P {
   color: #4c6972;
@@ -81,4 +81,11 @@
 }
 #ext_menu-t .mbr-navbar__hamburger {
   color: #f97352;
+}
+#form1-u .mbr-header__text {
+  color: #3d8eb9;
+  font-size: 36px;
+}
+#form1-u .btn {
+  font-size: 15px;
 }

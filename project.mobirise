@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PowerSite",
-    "currentPage": "index.html",
+    "currentPage": "Contact.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -99,7 +99,7 @@
             "overlayColor": "#f7da64",
             "overlayOpacity": "0.7"
           },
-          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Power Turbine Services &nbsp; &nbsp; &nbsp;&nbsp;",
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Power Turbine Services &nbsp; &nbsp; &nbsp;&nbsp;",
           "text": "<br><b>&nbsp;The answer to a worry&nbsp;free<br>&nbsp;scheduled or emergency</b><br><b>plant outage.&nbsp;<br><br></b><br><b><br></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"About.html\" data-toolbar=\"-mbrBtnMove\">About&nbsp;<br>Us<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Our<br>Capability</a>",
           "_tags": [
@@ -111,8 +111,8 @@
           "_styles": {
             "H1": {
               "text-align": "left",
-              "color": "#f97352",
-              "font-size": "36px"
+              "color": "#d14841",
+              "font-size": "46px"
             },
             "P": {
               "color": "#4c6972",
@@ -449,23 +449,23 @@
         {
           "_params": {
             "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/belhousingsmaller-605x807.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#efefef",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#fac51c",
+            "overlayOpacity": "0.8"
           },
-          "title": "CONTACT FORM",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "title": "CONTACT FORM<br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "form": {
             "action": "dinpete@optusnet.com.au",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for your email. We will respond shortly!"
             },
             "fields": {
               "name": {
@@ -481,11 +481,11 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "0403089663"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Please leave a brief message and we will respond as soon as possible"
               }
             }
           },
@@ -493,7 +493,16 @@
             "Theme"
           ],
           "_name": "form1",
-          "_anchor": "form1-u"
+          "_anchor": "form1-u",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#3d8eb9",
+              "font-size": "36px"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          }
         }
       ]
     }

@@ -7,6 +7,9 @@
 #ext_menu-5 .mbr-navbar__hamburger {
   color: #f97352;
 }
+#ext_menu-5 .mbr-navbar__items a {
+  font-size: 15px;
+}
 #header4-7 H1 {
   text-align: left;
   color: #d14841;
@@ -28,6 +31,9 @@
 #ext_menu-k .mbr-navbar__hamburger {
   color: #f97352;
 }
+#ext_menu-k .mbr-navbar__items a {
+  font-size: 15px;
+}
 #header4-r H1 {
   text-align: left;
   color: #4c6972;
@@ -41,7 +47,7 @@
 }
 #header4-s H1 {
   text-align: left;
-  color: #f97352;
+  color: #553982;
 }
 #header4-s P {
   color: #000000;
@@ -58,6 +64,9 @@
 }
 #ext_menu-k .mbr-navbar__hamburger {
   color: #f97352;
+}
+#ext_menu-k .mbr-navbar__items a {
+  font-size: 15px;
 }
 #content5-l .mbr-header .mbr-header__text {
   text-align: center;
@@ -81,6 +90,9 @@
 }
 #ext_menu-t .mbr-navbar__hamburger {
   color: #f97352;
+}
+#ext_menu-t .mbr-navbar__items a {
+  font-size: 15px;
 }
 #form1-u .mbr-header__text {
   color: #3d8eb9;

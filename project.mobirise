@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PowerSite",
-    "currentPage": "About.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -108,7 +108,7 @@
           },
           "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Power Turbine Services &nbsp; &nbsp; &nbsp;&nbsp;",
           "text": "<br><b>&nbsp;The answer to a worry&nbsp;free<br>&nbsp;scheduled or emergency</b><br><b>plant outage.&nbsp;<br><br></b><br><b><br></b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"About.html\" data-toolbar=\"-mbrBtnMove\">About US<br></a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"About.html#header4-r\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">About US<br></a> ",
           "_tags": [
             "Theme"
           ],
@@ -471,7 +471,7 @@
         {
           "_params": {
             "showTitle": true,
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/belhousingsmaller-605x807.jpg",
@@ -480,7 +480,7 @@
             "bgColor": "#efefef",
             "overlay": true,
             "overlayColor": "#f7da64",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.5"
           },
           "title": "Contact Form<br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",

@@ -6,12 +6,14 @@
       "name": "default",
       "title": "Mobirise",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#f0f764"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "uniqCompNum": 31,
+    "uniqCompNum": 33,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -33,11 +35,11 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#553982",
             "hamburgerColor": "#f97352"
           },
@@ -52,7 +54,9 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#553982"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#553982"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#f97352"
             },
@@ -60,7 +64,7 @@
               "font-size": "15px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\" target=\"_blank\">About</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" target=\"_blank\">Capability</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\" target=\"_blank\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" target=\"_blank\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\" target=\"_blank\">About</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html#header4-s\" target=\"_blank\">Capability</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\" target=\"_blank\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" target=\"_blank\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -104,7 +108,7 @@
           },
           "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Power Turbine Services &nbsp; &nbsp; &nbsp;&nbsp;",
           "text": "<br><b>&nbsp;The answer to a worry&nbsp;free<br>&nbsp;scheduled or emergency</b><br><b>plant outage.&nbsp;<br><br></b><br><b><br></b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"About.html\" data-toolbar=\"-mbrBtnMove\">About&nbsp;<br>Us<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Our<br>Capability</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"About.html\" data-toolbar=\"-mbrBtnMove\">About US<br></a> ",
           "_tags": [
             "Theme"
           ],
@@ -114,15 +118,15 @@
           "_styles": {
             "H1": {
               "text-align": "left",
-              "color": "#d14841",
+              "color": "#553982",
               "font-size": "46px"
             },
             "P": {
-              "color": "#4c6972",
+              "color": "#553982",
               "text-align": "center"
             },
             "B": {
-              "font-size": "48px"
+              "font-size": "36px"
             }
           }
         },
@@ -143,18 +147,18 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#553982",
             "hamburgerColor": "#f97352"
           },
@@ -169,7 +173,9 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#553982"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#553982"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#f97352"
             },
@@ -177,7 +183,7 @@
               "font-size": "15px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\" target=\"_blank\">About</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" target=\"_blank\">Capability</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\" target=\"_blank\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" target=\"_blank\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\" target=\"_blank\">About</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html#header4-s\" target=\"_blank\">Capability</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\" target=\"_blank\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" target=\"_blank\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -208,9 +214,9 @@
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/silver-vanessmallerflip-479x558.jpg",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#7ac673",
+            "bgColor": "#f0f764",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -230,7 +236,7 @@
           "_styles": {
             "H1": {
               "text-align": "left",
-              "color": "#4c6972"
+              "color": "#553982"
             },
             "P": {
               "color": "#000000",
@@ -252,7 +258,7 @@
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/silver-vanessmallerflip-479x558.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7ac673",
             "bgVideoRadio": false,
@@ -263,7 +269,7 @@
             "overlayColor": "#f7da64",
             "overlayOpacity": "0.7"
           },
-          "title": "CAPABILITIES &amp; RESOURCES&nbsp;",
+          "title": "Capabilities &amp; Resources",
           "text": "<br>OHS OFFICER - Develops all safety documentation prior the project commencement ensuring all client site safety requirements are met including but not limited to Project Safety Management plan, Environment Management Plan SWMS, Heavy Lift Plans and risk assessments. Throughout the execution the OHS Officer will work with the Technical Supervisor and Project manager to deliver a daily toolbox talk that highlights ant changes on the work front and any upcoming tasks.\n<br>\n<br>QUALITY ASSURANCE OFFICER – Can be utilised during the pre-planning phase of the project to collate the Quality Plan and all documentation relevant to the scope of work. During the execution the QA officer’s role is to ensure the quality plan (QA Plan) is adhered to and to documrnt all findings and defects information, and pass these on to the project manager / site manager. Upon project close out a Q.A report will be available to the client if requested.\n<br>\n<br>TECHNICAL ADVISOR – OEM certified technical advisors, for the assistance in all technical aspects of planned maintenance and breakdowns, including spare parts and tooling requirements throughout the project execution as well as assisting in all technical inquiries and giving technical guidance regarding findings assessments. Upon project completion a fact findings report can be compiled at the clients request.\n<br>\n<br>TECHNICAL SUPERVISORS - This role is a team management role, the technical supervisor has an extensive knowledge of the area of plant, and works with the workforce to ensure the tasks are carried out in a safe and timely manner and the quality of the work coincides with the QA plan and client expectations.\n<br>\n<br>MECHANICAL TRADESMAN – tradesman experienced in Gas Turbine, Steam Turbine, Generator overhauls and inspections. Experience on the following equipment for minor and major inspections and Hot Gas Path Inspections: -\n<br>\n<br>    GAS TURBINES – SIEMENS – V93.1, V93.0, V94.2, V94.3, V94.3a, ALSTOM 13E2, ALSTOM GT26,     GENERAL ELECTRIC FRAME 7, &amp; FRAME 9, MHI 701da\n<br>\n<br>    STEAM TURBINES – MHI 25MW, MHI 60MW,, TOSHIBA 420MW, HITACHI 350MW &amp; 500MW &amp;     PARSONS STEAM TURBINES.\n<br>\n<br>    COMPRESSORS – SULZER RIK 71-5, SCHIELE, DEMAG, INGERSOLL RAND GM-75H, GM-45H\n<br>\n<br>ADVANCED RIGGER / DOGMAN – Writing and following heavy lift plans and procedures,, understanding and executing complex lift studies, executing rotor and casing lifts using mobile and gantry cranes. Adhering to safe practices and carrying out statutory inspections on all rigging equipment. Experience in rigging / lifting turbine rotors and pulling generator rotors\n<br>\n<br>CRANE OPERATORS &gt;80T – Cabin Bridge and Open ticket crane drivers experienced in lifting Turbines and industrial equipment, fully licensed.3.\tSUPPLIER SERVICE REVIEW.\n<br>\n<br>If required by clients POWER turbine Services will meet with site representatives on a weekly basis to review service, rosters and forecast labour requirements. This meeting will be scheduled to suit the client’s needs.\n<br>\n<br>INSURANCES.\n<br>\n<br>All appropriate insurances are current, and copies will be supplied (see appendix). PowerTurbibe Services are wholly responsible for ensuring all required insurances are current. \n<br>\n<br>EMPLOYEMENT.\n<br>\n<br>Power Turbine Services will employ and manage all staff, and are responsible for all initial and ongoing costs associated with employment, including payrol, superannuation and insurance. \n<br>\n<br>Power Turbine Services will work closely with its clients to ensure all the resources provided comply with all defined policies and procedures and will manage the performance of the employees as required.\n<br>\n<br>Powerbine Services will work in conjunction with clients to ensure specific induction and training needs are met as required for the job.\n<br>\n<br>\n<br>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
@@ -292,18 +298,18 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Capability",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#553982",
             "hamburgerColor": "#f97352"
           },
@@ -318,7 +324,9 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#553982"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#553982"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#f97352"
             },
@@ -326,7 +334,7 @@
               "font-size": "15px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\" target=\"_blank\">About</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" target=\"_blank\">Capability</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\" target=\"_blank\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" target=\"_blank\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\" target=\"_blank\">About</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html#header4-s\" target=\"_blank\">Capability</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\" target=\"_blank\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" target=\"_blank\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -403,18 +411,18 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Contact",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#553982",
             "hamburgerColor": "#f97352"
           },
@@ -429,7 +437,9 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#553982"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#553982"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#f97352"
             },
@@ -437,7 +447,7 @@
               "font-size": "15px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\" target=\"_blank\">About</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" target=\"_blank\">Capability</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\" target=\"_blank\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" target=\"_blank\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\" target=\"_blank\">About</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html#header4-s\" target=\"_blank\">Capability</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\" target=\"_blank\">Contact</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" target=\"_blank\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -469,10 +479,10 @@
             "bgColorRadio": false,
             "bgColor": "#efefef",
             "overlay": true,
-            "overlayColor": "#fac51c",
+            "overlayColor": "#f7da64",
             "overlayOpacity": "0.8"
           },
-          "title": "CONTACT FORM<br>",
+          "title": "Contact Form<br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "form": {
             "action": "dinpete@optusnet.com.au",
@@ -497,7 +507,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Please leave a brief message and we will respond as soon as possible"
+                "customTitle": "Please leave a brief message and we will respond as soon as possible."
               }
             }
           },
@@ -508,7 +518,7 @@
           "_anchor": "form1-u",
           "_styles": {
             ".mbr-header__text": {
-              "color": "#3d8eb9",
+              "color": "#553982",
               "font-size": "36px"
             },
             ".btn": {
